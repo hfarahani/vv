@@ -1,3 +1,6 @@
+vless://55af399e-deb1-4738-8559-9a681151c758@www.speedtest.net:80?encryption=none&security=none&type=ws&host=mihanyas.ir.www.zula.ir.xn--4all.king4usd.shop.&path=%2F%40custom_config%3Fed%3D2048#%40custom_config%20%281403%2F01%2F17%29
+vless://a0234e3a-5a65-4710-aca5-3d470db62b22@www.speedtest.net:80?encryption=none&security=none&type=ws&host=mihanyas.ir.www.zula.ir.xn--4all.king4usd.shop.&path=%2F%40custom_config%3Fed%3D2048#%40custom_config%20%28iran%29
+
 vless://e6cc14ec-992b-4a18-9e78-2fd41c555f62@adivery.com:2053?encryption=none&security=tls&sni=sholi.hossein-f.workers.dev&alpn=h2&fp=randomized&type=ws&host=sholi.hossein-f.workers.dev&path=vless-ws%2F%3Fed%3D2048#3-vless-worker-adivery.com
 
 vless://77188c17-6448-40cd-bd68-552b6753b79e@104.21.59.165:8880?encryption=none&security=none&sni=falcunargo.e806e7c5e1.workers.dev&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=falcunargo.e806e7c5e1.workers.dev&path=%2F%3Fed%3D2048#81-%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20VL-WS-NA%204%E2%83%A3
