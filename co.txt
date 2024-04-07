@@ -1,3 +1,5 @@
+vless://45c82c57-527b-48e5-97e3-59c31bf8be48@www.speedtest.net:80?encryption=none&security=none&type=ws&host=mihanyas.ir.www.zula.ir.xn--4all.king4usd.shop.&path=%2F%40custom_config%3Fed%3D2048#%40custom_config%20%28free%29
+
 vless://94f1343f-0b05-49ee-b75d-4162104d57d9@www.speedtest.net:80?encryption=none&security=none&type=ws&host=mihanyas.ir.www.zula.ir.xn--4all.king4usd.shop.&path=%2F%40custom_config%3Fed%3D2048#%40custom_config
 vless://55af399e-deb1-4738-8559-9a681151c758@www.speedtest.net:80?encryption=none&security=none&type=ws&host=mihanyas.ir.www.zula.ir.xn--4all.king4usd.shop.&path=%2F%40custom_config%3Fed%3D2048#%40custom_config%20%281403%2F01%2F17%29
 vless://a0234e3a-5a65-4710-aca5-3d470db62b22@www.speedtest.net:80?encryption=none&security=none&type=ws&host=mihanyas.ir.www.zula.ir.xn--4all.king4usd.shop.&path=%2F%40custom_config%3Fed%3D2048#%40custom_config%20%28iran%29
